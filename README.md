@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm **Ömer Iliski.**
-I'm a Web Developer who works on Javascript, React, Vuejs and Nodejs.
+I'm a Web Developer who works on Javascript, React,React Native, Vuejs and Nodejs.
 #
 <img src="https://github-readme-stats.vercel.app/api?username=omeriliski&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeriliski&hide=python"/>
