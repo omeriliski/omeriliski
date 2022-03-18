@@ -2,7 +2,7 @@
 I'm **Ömer Iliski.**
 I'm a Web Developer who works on Javascript, React, Vuejs and Nodejs.
 #
-<img src="https://github-readme-stats.vercel.app/api?username=omeriliski"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omeriliski&show_icons=true"/>
 <!--
 **omeriliski/omeriliski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
