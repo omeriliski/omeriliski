@@ -2,11 +2,13 @@
 I'm **Ömer Iliski.**
 I'm a Web Developer who works on Javascript, React,React Native, Vuejs and Nodejs.
 #
-<img src="https://github-readme-stats.vercel.app/api?username=omeriliski&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeriliski&hide=python"/>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=omeriliski&show_icons=true&theme=tokyonight"/>                                   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeriliski&layout=compact&hide=python"/>
+</div>
 <!--
 **omeriliski/omeriliski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" width="200px" height="200px"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
